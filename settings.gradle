@@ -1,0 +1,3 @@
+rootProject.name = 'football-stats'
+
+include 'stats-service', 'batch-processing', 'data-scripts'
